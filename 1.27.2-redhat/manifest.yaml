@@ -1,0 +1,7 @@
+version: "1.27.2"
+docker: "docker.io/istio"
+architectures: [linux/amd64, linux/arm64]
+dependencies:
+  istio:
+    git: https://github.com/openshift-service-mesh/istio
+    branch: release-1.27
