@@ -1,4 +1,4 @@
-version: "1.31.0"
+version: "1.31.1"
 docker: "docker.io/istio"
 architectures: [linux/amd64, linux/arm64]
 dependencies:
